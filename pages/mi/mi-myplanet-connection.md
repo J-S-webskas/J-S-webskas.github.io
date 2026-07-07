@@ -4,6 +4,8 @@
 
 We use the nation/community infrastructure because our software is often deployed in areas without internet access. Nations are services in the cloud that are connected to the internet. Communities, typically run locally on Raspberry Pis and/or laptops, operate on an intranet and are sometimes not connected to the internet. Nations, being internet-connected, facilitate communication between us (with internet access) and users in communities (without internet access). However, for a community to sync with a nation, it must connect to the internet to enable bidirectional data exchange.
 
+An implementation addressing data synchronization issues: [SQLite-Sync](https://docs.sqlitecloud.io/docs/sqlite-sync-introduction) 
+
 ## Connecting myPlanet to Planet Virtual Interns Nation "vi"
 
 [Tutorial video for this section](https://www.youtube.com/watch?v=Gm194qUNz0o)
