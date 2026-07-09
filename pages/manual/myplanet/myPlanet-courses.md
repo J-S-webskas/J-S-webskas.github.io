@@ -5,7 +5,7 @@
 - Once you have logged in, click on the myPlanet logo on the top left corner or just swipe right from the left edge of the screen 
 - Click on the Courses button.
 - Now, it should show you all the available courses that you can enroll in!
-- Click on a course to know more deatils about the course.
+- Click on a course to know more details about the course.
 
 ## Enroll in a course
 
