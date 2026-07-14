@@ -15,4 +15,4 @@
 |[Jenny Shi](profiles/J-S-webskas.md)|2026-07-14|
 
 ## Former Members
-To view the list of former members, go to [former members page](mi-former-members.md).
+To view the list of former members, go to the [former members page](mi-former-members.md).

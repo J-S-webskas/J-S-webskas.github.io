@@ -4,6 +4,10 @@
 
 We use the nation/community infrastructure because our software is often deployed in areas without internet access. Nations are services in the cloud that are connected to the internet. Communities, typically run locally on Raspberry Pis and/or laptops, operate on an intranet and are sometimes not connected to the internet. Nations, being internet-connected, facilitate communication between us (with internet access) and users in communities (without internet access). However, for a community to sync with a nation, it must connect to the internet to enable bidirectional data exchange.
 
+An implementation addressing data synchronization issues in CouchDB:
+1. [Guide to replication](https://pouchdb.com/guides/replication.html)
+2. [Guide to conflicts](https://pouchdb.com/guides/conflicts.html) 
+
 ## Connecting myPlanet to Planet Virtual Interns Nation "vi"
 
 [Tutorial video for this section](https://www.youtube.com/watch?v=Gm194qUNz0o)
@@ -21,7 +25,7 @@ In this step, you will be connecting our mobile application, myPlanet, to Planet
 
 - **Create a User Account**: After syncing, click "BECOME A MEMBER" and fill in the required information to create an account. Keep your credentials somewhere, as you'll need them for future logins.
 
-- **Sign In**: Use the username and password you just created to log in to myPlanet. You have now successfully connect myPlanet app to planet server.
+- **Sign In**: Use the username and password you just created to log in to myPlanet. You have now successfully connected the myPlanet app to the planet server.
 
 **NOTE**: If you encounter issues during sign-in, try the following:
 1. Re-Sync: manually initiate sync by pressing the sync icon at the top left corner of the app. After syncing, try logging in again.

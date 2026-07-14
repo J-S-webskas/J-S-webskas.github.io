@@ -60,6 +60,8 @@ Follow the steps on [Courses Tutorial](myPlanet-courses.md) page.
 
 After completing a course in myCourses within the myPlanet App, you can assess your knowledge by taking a test. To access the test, tap the Test button located in the top-right corner of the screen. This feature allows you to evaluate your understanding of the course material and track your learning progress.
 
+![Test](image.png)
+
 
 ## Surveys
 
